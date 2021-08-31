@@ -4,4 +4,9 @@ plugins:
 relative_links:
   enabled: true
   collections: true
-  
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: https://picsum.photos/640/320
+author: "Mario Abreu"
